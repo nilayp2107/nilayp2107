@@ -13,7 +13,8 @@ C | C++ | Python | Oracle SQL | JavaScript | HTML/CSS | LangChain | Agentic AI |
 
 
 ### 📫 Connect
-[LinkedIn]([https://linkedin.com/in/your-id](https://www.linkedin.com/in/nilay-patel-97a5b3201)) | [Email](mailto:0aayyy2107@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/nilay-patel-97a5b3201) | [Email](mailto:0aayyy2107@gmail.com) 
+
 
 ---
 *"Code. Learn. Drive."*
