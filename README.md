@@ -1,6 +1,6 @@
 # Hi, I’m Nilay Patel 👋
 
-💻 Member Technical Staff - 1 @ Oracle | 🎓 B.Tech CSE, IIT Indore  
+💻 Ex-Member Technical Staff - 1 @ Oracle | 🎓 B.Tech CSE, IIT Indore  
 🔍 Interests: Deep Learning, Finance, Systems Engineering  
 
 ### ⚡ Tech Stack
